@@ -1,0 +1,8 @@
+README
+
+These simple script is used to fake views on yt. Access these if you need to configure tor with seleniu and install
+additional features and whatever. https://github.com/webfp/tor-browser-selenium
+
+Basically you run the script with the link of the video on envidious.
+If you nedd to keep a cool view of your profile on these its very good to use a auto-script without human interaction.
+After, you can share and all.
